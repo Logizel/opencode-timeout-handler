@@ -1,0 +1,16 @@
+{
+  "name": "opencode-auto-continue",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@opencode-ai/plugin": "^1.17.8",
+    "@opencode-ai/sdk": "^1.17.8"
+  }
+}
