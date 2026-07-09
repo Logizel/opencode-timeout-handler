@@ -8,6 +8,7 @@ export const StrictTimeoutPlugin: Plugin = async ({ client }) => {
     "streaming response failed",
     "provider returned error",
     "upstream error from nvidia: enginecore encountered an issue. see stack trace (above) for the root cause.",
+    "Error from provider (Console): Upstream request failed",
   ];
 
   return {
