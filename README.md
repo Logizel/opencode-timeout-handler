@@ -8,7 +8,6 @@ Unlike other auto-resume plugins that blindly spam the `continue` command on eve
 
 ## Features
 
-- **Zero-Log Execution:** Keeps your terminal output completely clean.
 - **Strict Error Targeting:** Ignores standard `interrupted` tool failures to prevent infinite hallucination loops.
 - **Global Session Tracking:** Successfully routes the continue command even if the timeout event drops the session ID payload.
 
